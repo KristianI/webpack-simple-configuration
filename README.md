@@ -1,7 +1,5 @@
 # webpack-simple-configuration
 
-## About
-
 Example of a simple Webpack configuration that bundles and minifies JavaScript 
 and CSS files into bundle.js and bundle.css respectively.
 
