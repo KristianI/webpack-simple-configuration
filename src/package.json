@@ -1,0 +1,13 @@
+{
+    "name": "WebpackSimpleConfigurationExample",
+    "version": "1.0.0",
+    "author": "Kristian Just Iversen",
+    "description": "Example of a simple webpack configuration that bundles JS and CSS files in bundle.js and bundle.css.",
+    "dependencies": {
+        "style-loader": "*",
+        "css-loader": "*",
+        "url-loader": "*",
+        "file-loader": "*",
+        "extract-text-webpack-plugin": "*"
+    }
+}
